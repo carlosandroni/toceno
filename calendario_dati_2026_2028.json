@@ -56,12 +56,12 @@
   },
   {
     "data": "2026-09-12",
-    "famiglia": "B",
+    "famiglia": "A",
     "tipo": "weekend"
   },
   {
     "data": "2026-09-13",
-    "famiglia": "B",
+    "famiglia": "A",
     "tipo": "weekend"
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "data": "2026-09-19",
-    "famiglia": "A",
+    "famiglia": "B",
     "tipo": "weekend"
   },
   {
     "data": "2026-09-20",
-    "famiglia": "A",
+    "famiglia": "B",
     "tipo": "weekend"
   },
   {
@@ -686,12 +686,12 @@
   },
   {
     "data": "2027-01-16",
-    "famiglia": "B",
+    "famiglia": "A",
     "tipo": "weekend"
   },
   {
     "data": "2027-01-17",
-    "famiglia": "B",
+    "famiglia": "A",
     "tipo": "weekend"
   },
   {
@@ -791,12 +791,12 @@
   },
   {
     "data": "2027-02-06",
-    "famiglia": "A",
+    "famiglia": "B",
     "tipo": "weekend"
   },
   {
     "data": "2027-02-07",
-    "famiglia": "A",
+    "famiglia": "B",
     "tipo": "weekend"
   },
   {
@@ -822,7 +822,7 @@
   {
     "data": "2027-02-12",
     "famiglia": null,
-    "tipo": "neutro"
+    "tipo": "festa_locale"
   },
   {
     "data": "2027-02-13",
@@ -1212,7 +1212,7 @@
   {
     "data": "2027-05-01",
     "famiglia": "A",
-    "tipo": "weekend"
+    "tipo": "festa_locale"
   },
   {
     "data": "2027-05-02",
@@ -1372,7 +1372,7 @@
   {
     "data": "2027-06-02",
     "famiglia": null,
-    "tipo": "neutro"
+    "tipo": "festa_locale"
   },
   {
     "data": "2027-06-03",
@@ -2747,7 +2747,7 @@
   {
     "data": "2028-03-03",
     "famiglia": null,
-    "tipo": "neutro"
+    "tipo": "festa_locale"
   },
   {
     "data": "2028-03-04",
@@ -3042,7 +3042,7 @@
   {
     "data": "2028-05-01",
     "famiglia": null,
-    "tipo": "neutro"
+    "tipo": "festa_locale"
   },
   {
     "data": "2028-05-02",
@@ -3202,7 +3202,7 @@
   {
     "data": "2028-06-02",
     "famiglia": null,
-    "tipo": "neutro"
+    "tipo": "festa_locale"
   },
   {
     "data": "2028-06-03",
